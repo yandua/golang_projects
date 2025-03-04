@@ -1,0 +1,9 @@
+{
+"id": "3",
+"isbn": "54374333",
+"title": "Movie3",
+"director": {
+"firstname": "papka",
+"lastname": "yurka"
+}
+}
